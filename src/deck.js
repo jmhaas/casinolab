@@ -27,6 +27,6 @@ class Deck{
 		}
 
 	function dealCard(){
-		return this.cards.pop[];
+		return this.cards.pop();
 		}
 
